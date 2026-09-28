@@ -4,10 +4,10 @@
 
 | 内容 | 代码快照 | 上游项目 | 原 fork 提交 |
 | --- | --- | --- | --- |
-| 算法练习 | [algorithm013](projects/algorithm013) | [sleepybear1125/algorithm013](https://github.com/sleepybear1125/algorithm013) | `90c9fa0a8937` |
-| JDK 源码阅读 | [LearningJDK](projects/LearningJDK) | [kangjianwei/LearningJDK](https://github.com/kangjianwei/LearningJDK) | `2fc714adefcf` |
-| JVM 学习笔记 | [NOTE_JVM](projects/NOTE_JVM) | [vectorxxxx/NOTE_JVM](https://github.com/vectorxxxx/NOTE_JVM) | `f562adedb0ae` |
-| 设计模式学习笔记 | [NOTE_DesignPatterns](projects/NOTE_DesignPatterns) | [vectorxxxx/NOTE_DesignPatterns](https://github.com/vectorxxxx/NOTE_DesignPatterns) | `961dbb69ea1f` |
+| 算法练习 | [algorithm013](https://github.com/lfu-frank/learning-collections/tree/main/collections/java/projects/algorithm013) | [sleepybear1125/algorithm013](https://github.com/sleepybear1125/algorithm013) | `90c9fa0a8937` |
+| JDK 源码阅读 | [LearningJDK](https://github.com/lfu-frank/learning-collections/tree/main/collections/java/projects/LearningJDK) | [kangjianwei/LearningJDK](https://github.com/kangjianwei/LearningJDK) | `2fc714adefcf` |
+| JVM 学习笔记 | [NOTE_JVM](https://github.com/lfu-frank/learning-collections/tree/main/collections/java/projects/NOTE_JVM) | [vectorxxxx/NOTE_JVM](https://github.com/vectorxxxx/NOTE_JVM) | `f562adedb0ae` |
+| 设计模式学习笔记 | [NOTE_DesignPatterns](https://github.com/lfu-frank/learning-collections/tree/main/collections/java/projects/NOTE_DesignPatterns) | [vectorxxxx/NOTE_DesignPatterns](https://github.com/vectorxxxx/NOTE_DesignPatterns) | `961dbb69ea1f` |
 
 快照对应原 fork 当时的默认分支。`SNAPSHOT_MANIFEST.json` 记录完整提交编号和核对的文件数量。原 fork 删除后，表中的上游链接仍可用于查看项目后续更新。
 

@@ -4,8 +4,8 @@
 
 | 内容 | 代码快照 | 上游项目 | 原 fork 提交 |
 | --- | --- | --- | --- |
-| 以太坊技术书 | [ethereum-compass](projects/ethereum-compass) | [laalaguer/ethereum-compass](https://github.com/laalaguer/ethereum-compass) | `1ced07083002` |
-| Web3 知识整理 | [web3.0](projects/web3.0) | [wangschang/web3.0](https://github.com/wangschang/web3.0) | `9e91fed53d68` |
+| 以太坊技术书 | [ethereum-compass](https://github.com/lfu-frank/learning-collections/tree/main/collections/web3/projects/ethereum-compass) | [laalaguer/ethereum-compass](https://github.com/laalaguer/ethereum-compass) | `1ced07083002` |
+| Web3 知识整理 | [web3.0](https://github.com/lfu-frank/learning-collections/tree/main/collections/web3/projects/web3.0) | [wangschang/web3.0](https://github.com/wangschang/web3.0) | `9e91fed53d68` |
 
 快照对应原 fork 当时的默认分支。`SNAPSHOT_MANIFEST.json` 记录完整提交编号和核对的文件数量。原 fork 删除后，表中的上游链接仍可用于查看项目后续更新。
 

@@ -4,10 +4,10 @@
 
 | 主题 | 代码目录 | 内容 | 收录数 |
 | --- | --- | --- | ---: |
-| [Java、算法与设计模式](java-algorithms.md) | [collections/java](collections/java) | 算法练习、JDK、JVM、设计模式 | 4 |
-| [前端开发](frontend.md) | [collections/frontend](collections/frontend) | HTML/CSS、JavaScript、jQuery、React、Vue | 7 |
-| [AI 与综合笔记](ai-and-notes.md) | [collections/ai-notes](collections/ai-notes) | 中文大模型资源、综合学习笔记 | 2 |
-| [区块链与 Web3](web3.md) | [collections/web3](collections/web3) | 以太坊与 Web3 资料 | 2 |
+| [Java、算法与设计模式](java-algorithms.md) | [collections/java](https://github.com/lfu-frank/learning-collections/tree/main/collections/java) | 算法练习、JDK、JVM、设计模式 | 4 |
+| [前端开发](frontend.md) | [collections/frontend](https://github.com/lfu-frank/learning-collections/tree/main/collections/frontend) | HTML/CSS、JavaScript、jQuery、React、Vue | 7 |
+| [AI 与综合笔记](ai-and-notes.md) | [collections/ai-notes](https://github.com/lfu-frank/learning-collections/tree/main/collections/ai-notes) | 中文大模型资源、综合学习笔记 | 2 |
+| [区块链与 Web3](web3.md) | [collections/web3](https://github.com/lfu-frank/learning-collections/tree/main/collections/web3) | 以太坊与 Web3 资料 | 2 |
 | [应用与可运行项目参考](app-examples.md) | 仅链接 | 股票分析、交易框架、机器人演示 | 4 |
 
 > 四个分类目录收录 15 个学习项目的代码快照；另有 4 个应用项目 fork 仅作为参考链接保留。`Learning-Notes` 涵盖多个主题，仅在 AI 与综合笔记中计数。
