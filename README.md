@@ -8,8 +8,9 @@
 | [前端开发](frontend.md) | HTML/CSS、JavaScript、jQuery、React、Vue | 7 |
 | [AI 与综合笔记](ai-and-notes.md) | 中文大模型资源、综合学习笔记 | 2 |
 | [区块链与 Web3](web3.md) | 以太坊与 Web3 资料 | 2 |
+| [应用与可运行项目参考](app-examples.md) | 股票分析、交易框架、机器人演示 | 4 |
 
-> 本索引收录 15 个公开学习类 fork。`Learning-Notes` 涵盖多个主题，仅在 AI 与综合笔记中计数。
+> 本索引收录 15 个公开学习类 fork 和 4 个应用项目 fork，共 19 个。`Learning-Notes` 涵盖多个主题，仅在 AI 与综合笔记中计数。
 
 ## 使用方式
 
