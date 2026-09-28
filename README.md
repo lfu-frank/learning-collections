@@ -1,0 +1,20 @@
+# 学习项目索引
+
+按主题整理 GitHub 账号 [lfu-frank](https://github.com/lfu-frank) 中的学习类仓库。本仓库只收录说明和链接；各项目的代码、历史记录、许可证及维护者信息以原仓库和上游仓库为准。
+
+| 主题 | 内容 | 收录数 |
+| --- | --- | ---: |
+| [Java、算法与设计模式](java-algorithms.md) | 算法练习、JDK、JVM、设计模式 | 4 |
+| [前端开发](frontend.md) | HTML/CSS、JavaScript、jQuery、React、Vue | 7 |
+| [AI 与综合笔记](ai-and-notes.md) | 中文大模型资源、综合学习笔记 | 2 |
+| [区块链与 Web3](web3.md) | 以太坊与 Web3 资料 | 2 |
+
+> 本索引收录 15 个公开学习类 fork。`Learning-Notes` 涵盖多个主题，仅在 AI 与综合笔记中计数。
+
+## 使用方式
+
+打开主题页，选择原仓库查看已有快照，或打开上游仓库查看最新内容。此索引不暗示这些项目由本账号原创，也不替代上游项目的许可说明。
+
+## 整理范围
+
+私有练习仓库 `front`、`java`、`python` 和独立应用项目不收录在这个公开索引中，以免改变原有可见范围。Niftylife 项目继续使用当前仓库和 Vercel 连接。
