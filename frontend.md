@@ -2,7 +2,7 @@
 
 代码快照集中保存在本仓库的 [collections/frontend](https://github.com/lfu-frank/learning-collections/tree/main/collections/frontend) 目录。
 
-| 学习内容 | 本仓库内的代码快照 | 上游项目 |
+| 学习内容 | 分类仓库内的代码快照 | 上游项目 |
 | --- | --- | --- |
 | HTML5 与 CSS3 | [NOTE_HTML5](https://github.com/lfu-frank/learning-collections/tree/main/collections/frontend/projects/NOTE_HTML5) | [vectorxxxx/NOTE_HTML5](https://github.com/vectorxxxx/NOTE_HTML5) |
 | JavaScript 基础 | [NOTE_JS](https://github.com/lfu-frank/learning-collections/tree/main/collections/frontend/projects/NOTE_JS) | [vectorxxxx/NOTE_JS](https://github.com/vectorxxxx/NOTE_JS) |

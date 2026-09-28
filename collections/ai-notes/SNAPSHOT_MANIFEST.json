@@ -16,14 +16,5 @@
     "upstream": "https://github.com/dselegent/Learning-Notes",
     "source_commit": "9d1098e91d8e04e1a90ec4734b66a71cc21b644f",
     "verified_tracked_files": 270
-  },
-  {
-    "category": "ai-notes",
-    "name": "d2l-zh",
-    "topic": "深度学习教材",
-    "original_fork": "https://github.com/lfu-frank/d2l-zh",
-    "upstream": "https://github.com/d2l-ai/d2l-zh",
-    "source_commit": "e6b18ccea71451a55fcd861d7b96fddf2587b09a",
-    "verified_tracked_files": 834
   }
 ]

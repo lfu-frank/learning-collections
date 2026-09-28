@@ -2,7 +2,7 @@
 
 代码快照集中保存在本仓库的 [collections/java](https://github.com/lfu-frank/learning-collections/tree/main/collections/java) 目录。
 
-| 学习内容 | 本仓库内的代码快照 | 上游项目 |
+| 学习内容 | 分类仓库内的代码快照 | 上游项目 |
 | --- | --- | --- |
 | 算法练习 | [algorithm013](https://github.com/lfu-frank/learning-collections/tree/main/collections/java/projects/algorithm013) | [sleepybear1125/algorithm013](https://github.com/sleepybear1125/algorithm013) |
 | JDK 源码阅读 | [LearningJDK](https://github.com/lfu-frank/learning-collections/tree/main/collections/java/projects/LearningJDK) | [kangjianwei/LearningJDK](https://github.com/kangjianwei/LearningJDK) |
