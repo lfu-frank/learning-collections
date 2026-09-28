@@ -1,0 +1,206 @@
+/* ============头部导航栏============ */
+.head-outer-wrapper {
+  width: 100%;
+  position: relative;
+}
+
+.head-wrapper {
+  width: 1226px;
+  margin: auto;
+}
+
+/* ======head-logo====== */
+.head-logo-wrapper {
+  float: left;
+  width: 56px;
+  height: 56px;
+  margin-top: 22px;
+  position: relative;
+  overflow: hidden;
+  /* 隐藏搜索引擎需要但不显示的文字 */
+  text-indent: -9999px;
+}
+
+.head-logo-wrapper a {
+  width: 100%;
+  height: 100%;
+  background-image: url("/img/logo-mi2.png");
+  background-size: 56px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: left 0.2s;
+}
+
+.head-logo-wrapper .head-home {
+  left: -56px;
+}
+
+.head-logo-wrapper:hover .head-home {
+  left: 0;
+}
+
+.head-logo-wrapper:hover .head-logo {
+  left: 56px;
+}
+
+/* ======head-item====== */
+.head-item-wrapper {
+  float: left;
+  margin-left: 62px;
+}
+
+.head-item-wrapper ul {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.head-item-wrapper ul li {
+  float: left;
+}
+
+.head-item-wrapper ul .head-item {
+  padding: 0 10px;
+}
+
+.head-item-all {
+  visibility: hidden;
+}
+
+.head-item-wrapper > ul > li:hover > a {
+  color: #ff6700;
+}
+
+.head-item-wrapper > ul > li > a {
+  display: table-cell;
+  height: 100px;
+  vertical-align: middle;
+  color: #333;
+  font-size: 16px;
+}
+
+/* item-expand */
+.item-expand {
+  width: 100%;
+  height: 0;
+  background-color: #fff;
+  /* box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2); */
+  border-top: 1px solid transparent;
+  position: absolute;
+  top: 100px;
+  left: 0;
+  z-index: 100;
+  /* 效果不好，先注释掉 */
+  /* transition: height 0.3s, border-top 0.3s; */
+}
+
+.item-expand ul {
+  width: 1226px;
+  height: 0;
+  margin: 0 auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  /* 效果不好，先注释掉 */
+  /* transition: height 0.3s, border-top 0.3s; */
+}
+
+.item-expand .item-detail {
+  width: 203.5px;
+  height: 0;
+}
+
+.item-expand .item-detail a {
+  /* 变成块元素，悬浮时整个都会变小手 */
+  display: block;
+  margin: 35px 0;
+}
+
+.item-expand .sep {
+  width: 1px;
+  height: 0;
+  padding: 0;
+  margin-top: 35px;
+  background-color: #e0e0e0;
+  /* 效果不好，先注释掉 */
+  /* transition: height 0.3s; */
+}
+
+.item-expand img {
+  display: block;
+  width: 160px;
+  height: 0;
+  margin: 0 auto;
+  /* 效果不好，先注释掉 */
+  /* transition: height 0.3s; */
+}
+
+.item-expand div {
+  display: none;
+  font-size: 12px;
+}
+
+.item-expand .item-expend-name {
+  margin-top: 16px;
+  color: #333;
+}
+
+.item-expand .item-expand-price {
+  color: #ff6700;
+}
+
+/* ======head-search====== */
+.head-search-wrapper {
+  float: right;
+}
+
+.head-search-wrapper .search-form {
+  display: table-cell;
+  height: 100px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.head-search-wrapper .search-input,
+.head-search-wrapper button {
+  float: left;
+  height: 50px;
+  line-height: 50px;
+  border: 1px solid #e0e0e0;
+  box-sizing: content-box;
+  /* 去除默认样式 */
+  background-color: transparent;
+  outline: none;
+  padding: 0;
+  margin: 0;
+}
+
+.head-search-wrapper:hover .search-input,
+.head-search-wrapper:hover button {
+  border-color: rgb(176, 176, 176);
+}
+
+.head-search-wrapper .search-input {
+  width: 223px;
+  padding: 0 10px;
+  border-right: none;
+  font-size: 14px;
+  transition: border-color 0.2s;
+}
+
+.head-search-wrapper button {
+  width: 50px;
+  font-size: 18px;
+  color: #616161;
+  cursor: pointer;
+  transition: background-color 0.2s, border-color 0.2s;
+}
+
+.head-search-wrapper button:hover {
+  background-color: #ff6700;
+  border-color: #ff6700;
+  color: #fff;
+}

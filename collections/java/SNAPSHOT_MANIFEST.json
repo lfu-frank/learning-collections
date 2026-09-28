@@ -1,0 +1,38 @@
+[
+  {
+    "category": "java",
+    "name": "algorithm013",
+    "topic": "算法练习",
+    "original_fork": "https://github.com/lfu-frank/algorithm013",
+    "upstream": "https://github.com/sleepybear1125/algorithm013",
+    "source_commit": "90c9fa0a893714e90616201011d295f7505deaf2",
+    "verified_tracked_files": 25
+  },
+  {
+    "category": "java",
+    "name": "LearningJDK",
+    "topic": "JDK 源码阅读",
+    "original_fork": "https://github.com/lfu-frank/LearningJDK",
+    "upstream": "https://github.com/kangjianwei/LearningJDK",
+    "source_commit": "2fc714adefcfb58e60e72dc1da21d30ff67cd1e9",
+    "verified_tracked_files": 16721
+  },
+  {
+    "category": "java",
+    "name": "NOTE_JVM",
+    "topic": "JVM 学习笔记",
+    "original_fork": "https://github.com/lfu-frank/NOTE_JVM",
+    "upstream": "https://github.com/vectorxxxx/NOTE_JVM",
+    "source_commit": "f562adedb0ae2e84d703874dfa59620b8efc8dfd",
+    "verified_tracked_files": 25
+  },
+  {
+    "category": "java",
+    "name": "NOTE_DesignPatterns",
+    "topic": "设计模式学习笔记",
+    "original_fork": "https://github.com/lfu-frank/NOTE_DesignPatterns",
+    "upstream": "https://github.com/vectorxxxx/NOTE_DesignPatterns",
+    "source_commit": "961dbb69ea1fc833794dc1a27fc0489cb68ce94b",
+    "verified_tracked_files": 417
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "category": "ai-notes",
+    "name": "Awesome-Chinese-LLM",
+    "topic": "中文大模型资源",
+    "original_fork": "https://github.com/lfu-frank/Awesome-Chinese-LLM",
+    "upstream": "https://github.com/AiHubCN/Awesome-Chinese-LLM",
+    "source_commit": "f8e7a63883f99b5a27cef19a8d90039032bc8285",
+    "verified_tracked_files": 15
+  },
+  {
+    "category": "ai-notes",
+    "name": "Learning-Notes",
+    "topic": "综合学习笔记",
+    "original_fork": "https://github.com/lfu-frank/Learning-Notes",
+    "upstream": "https://github.com/dselegent/Learning-Notes",
+    "source_commit": "9d1098e91d8e04e1a90ec4734b66a71cc21b644f",
+    "verified_tracked_files": 270
+  }
+]

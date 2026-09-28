@@ -1,0 +1,65 @@
+[
+  {
+    "category": "frontend",
+    "name": "NOTE_HTML5",
+    "topic": "HTML5 与 CSS3",
+    "original_fork": "https://github.com/lfu-frank/NOTE_HTML5",
+    "upstream": "https://github.com/vectorxxxx/NOTE_HTML5",
+    "source_commit": "2c9a8d1c1af29c234b929ab6ef80fd0a8f5e3a6d",
+    "verified_tracked_files": 587
+  },
+  {
+    "category": "frontend",
+    "name": "NOTE_JS",
+    "topic": "JavaScript 基础",
+    "original_fork": "https://github.com/lfu-frank/NOTE_JS",
+    "upstream": "https://github.com/vectorxxxx/NOTE_JS",
+    "source_commit": "c476a18ae24b01916fa13b79d659fbbddcf2a0dd",
+    "verified_tracked_files": 112
+  },
+  {
+    "category": "frontend",
+    "name": "NOTE_jQuery",
+    "topic": "jQuery",
+    "original_fork": "https://github.com/lfu-frank/NOTE_jQuery",
+    "upstream": "https://github.com/vectorxxxx/NOTE_jQuery",
+    "source_commit": "4321f0a9b41aa887a6f8795a80119da1643cd20a",
+    "verified_tracked_files": 581
+  },
+  {
+    "category": "frontend",
+    "name": "React",
+    "topic": "React",
+    "original_fork": "https://github.com/lfu-frank/React",
+    "upstream": "https://github.com/cyk-pipkun/React",
+    "source_commit": "c1a208047e148499f3193fe994a4764f26e4f456",
+    "verified_tracked_files": 190
+  },
+  {
+    "category": "frontend",
+    "name": "vue-learning",
+    "topic": "Vue 基础",
+    "original_fork": "https://github.com/lfu-frank/vue-learning",
+    "upstream": "https://github.com/Panyue-genkiyo/vue-learning",
+    "source_commit": "6c948ee0a69ba2e7f6d7586636aaf3612349a09c",
+    "verified_tracked_files": 63
+  },
+  {
+    "category": "frontend",
+    "name": "vue-advance",
+    "topic": "Vue 进阶",
+    "original_fork": "https://github.com/lfu-frank/vue-advance",
+    "upstream": "https://github.com/Panyue-genkiyo/vue-advance",
+    "source_commit": "cc0801b20b5d3aa3c30e336e3df3fed2c75dd877",
+    "verified_tracked_files": 270
+  },
+  {
+    "category": "frontend",
+    "name": "vue3-learning",
+    "topic": "Vue 3",
+    "original_fork": "https://github.com/lfu-frank/vue3-learning",
+    "upstream": "https://github.com/Panyue-genkiyo/vue3-learning",
+    "source_commit": "26709330d00529785b397e008c91f04fa9874094",
+    "verified_tracked_files": 70
+  }
+]

@@ -1,0 +1,184 @@
+/* ============主体============ */
+.main-wrapper {
+  width: 1226px;
+  height: 460px;
+  margin: auto;
+  position: relative;
+}
+
+/* ======左侧导航栏====== */
+.nav-wrapper {
+  width: 234px;
+  background: rgba(105, 101, 101, 0.6);
+  padding: 20px 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+
+.nav-wrapper ul {
+  height: 420px;
+}
+
+.nav-wrapper .nav-item:hover {
+  background-color: #ff6700;
+}
+
+.nav-wrapper .nav-item a {
+  display: block;
+  height: 42px;
+  line-height: 42px;
+  padding-left: 30px;
+  position: relative;
+  color: white;
+  font-size: 14px;
+}
+
+.nav-wrapper .fa-angle-right {
+  display: block;
+  height: 42px;
+  line-height: 42px;
+  position: absolute;
+  top: 0;
+  left: 202px;
+  color: #e0e0e0;
+  font-size: 20px;
+}
+
+/* ======左侧展开导航栏====== */
+.nav-expand-wrapper {
+  /* visibility: hidden; */
+  display: none;
+  width: 992px;
+  height: 458px;
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.18);
+  position: absolute;
+  top: 0;
+  left: 234px;
+  z-index: 10;
+}
+
+.nav-expand-wrapper ul {
+  /* float: left; */
+  width: 248px;
+  height: 458px;
+  padding: 1px 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.nav-expand-wrapper ul:nth-child(2) {
+  left: 248px;
+}
+
+.nav-expand-wrapper ul:nth-child(3) {
+  left: calc(248px * 2);
+}
+
+.nav-expand-wrapper ul:nth-child(4) {
+  left: calc(248px * 3);
+}
+
+.nav-expand-wrapper a {
+  /* 变成块元素，悬浮时整个都会变小手 */
+  display: block;
+  width: 248px;
+  height: 76px;
+  line-height: 76px;
+}
+
+.nav-expand-wrapper a:hover {
+  color: #ff6700;
+}
+
+.nav-expand-wrapper img {
+  display: block;
+  float: left;
+  margin: 16px 15px 0 22px;
+  width: 40px;
+  height: 40px;
+}
+
+/* ======右侧轮播图====== */
+.banner-wrapper {
+  width: 1226px;
+  height: 460px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.banner-wrapper img {
+  width: 1226px;
+  height: 460px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* 替换图片按钮 */
+.swiper-button {
+  width: 41px;
+  height: 69px;
+  line-height: 69px;
+  background-image: url("/img/右侧轮播图/icon-slides.png");
+  position: absolute;
+  /* top: 195.5px; */
+  /* 不用计算的方式 */
+  top: 0;
+  bottom: 0;
+  margin: auto 0;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.button-prev {
+  background-position: calc(-41px * 2 - 1px * 1) 0;
+  left: 234px;
+}
+
+.button-prev:hover {
+  background-position: calc(-41px * 0 - 1px * 0) 0;
+}
+
+.button-next {
+  background-position: calc(-41px * 3 - 1px * 2) 0;
+  right: 0;
+}
+
+.button-next:hover {
+  background-position: calc(-41px * 1 - 1px * 1) 0;
+}
+
+/* 替换图片原点 */
+.pagination-bullet {
+  position: absolute;
+  right: 34px;
+  bottom: 26px;
+  z-index: 10;
+}
+
+.pagination-bullet .circle {
+  float: left;
+  width: 6px;
+  height: 6px;
+  margin-left: 8px;
+  background-color: rgb(148, 148, 148);
+  border: 2px solid rgb(181, 181, 181);
+  border-radius: 50%;
+}
+
+.pagination-bullet .circle:hover,
+.pagination-bullet .active {
+  background: #fff;
+  border-color: rgb(150, 150, 150);
+}
+
+img:nth-of-type(0) {
+  z-index: 2;
+}

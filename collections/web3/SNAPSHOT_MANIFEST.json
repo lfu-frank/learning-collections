@@ -1,0 +1,20 @@
+[
+  {
+    "category": "web3",
+    "name": "ethereum-compass",
+    "topic": "以太坊技术书",
+    "original_fork": "https://github.com/lfu-frank/ethereum-compass",
+    "upstream": "https://github.com/laalaguer/ethereum-compass",
+    "source_commit": "1ced070830027a4d92f3dbf566f3ec48c2c636bb",
+    "verified_tracked_files": 472
+  },
+  {
+    "category": "web3",
+    "name": "web3.0",
+    "topic": "Web3 知识整理",
+    "original_fork": "https://github.com/lfu-frank/web3.0",
+    "upstream": "https://github.com/wangschang/web3.0",
+    "source_commit": "9e91fed53d68f66f22dae355be829c15b4af8351",
+    "verified_tracked_files": 5
+  }
+]
